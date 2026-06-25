@@ -2,7 +2,6 @@
   <img src="https://komarev.com/ghpvc/?username=neuumi&label=‎>⩊<&color=000000"
        width="90" alt="views">
 <p align="center">
-                 Tex text
                       <p align="center">
                  <img width="500" src="https://files.catbox.moe/wy5vmr.jpg" alt=!>
 <p align="center">
