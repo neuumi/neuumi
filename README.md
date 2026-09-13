@@ -4,4 +4,5 @@
 <p align="center">
                       <p align="center">
                  <img width="80" src="https://files.catbox.moe/457e1w.jpg"> <img width="80" src="https://files.catbox.moe/9v3mc7.jpg"> <img width="80" src="https://files.catbox.moe/1vlhj4.jpg"> 
+                        <img width="120" src="https://files.catbox.moe/tzr4lu.png">
 <p align="center">
