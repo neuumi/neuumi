@@ -7,5 +7,5 @@
 
 
 <p align="center">            
-                        <img width="120" src="https://files.catbox.moe/tzr4lu.png">
+                        <img width="300" src="https://files.catbox.moe/tzr4lu.png">
 <p align="center">
