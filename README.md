@@ -3,5 +3,5 @@
        width="90" alt="views">
 
 <p align="center">            
-                        <img width="600" src="https://files.catbox.moe/tzr4lu.png">
+                        <img width="500" src="https://files.catbox.moe/tzr4lu.png">
 <p align="center">
